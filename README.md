@@ -28,3 +28,5 @@ Before running the program, make sure you have the following dependencies instal
 
    ```bash
    python word_frequency_analysis.py
+
+![25 main technologies in python.png](25%20main%20technologies%20in%20python.png)
