@@ -200,5 +200,4 @@ class BadWords:
         "improve",
         "clean",
         "rest"
-
     ]
